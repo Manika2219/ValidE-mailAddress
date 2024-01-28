@@ -1,4 +1,6 @@
-Valid Email Address
+Valid Email Address:-
+
+
 An email address must contain the "@" symbol, and all letters should be in lowercase. To verify the correctness of an email address, you can perform a check using regular expressions.
 
 The process involves using regular expressions to match patterns, followed by the utilization of interfaces to interact with the matched results. Engaging in a Python project to validate email addresses will significantly enhance your programming skills. The entire process is implemented using Python string functions.
